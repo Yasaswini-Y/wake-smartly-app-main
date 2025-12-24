@@ -34,8 +34,7 @@ npm install
 Run the app
 npm run dev
 
-Open in browser:
-http://localhost:5173
+
 
 **Key Learnings**
 Separation of logic and UI using custom hooks
